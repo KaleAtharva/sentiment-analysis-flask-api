@@ -1,2 +1,17 @@
 Flask
 Gunicorn
+joblib
+load
+request
+jsonify
+re
+nltk
+nltk.corpus
+stopwords
+nltk.stem.porter
+PorterStemmer
+sklearn.feature_extraction.text
+TfidfVectorizer
+flask_cors
+CORS
+flask
