@@ -2,8 +2,6 @@ Flask
 Gunicorn
 joblib
 load
-request
-jsonify
 re
 nltk
 nltk.corpus
