@@ -4,5 +4,5 @@ joblib
 load
 nltk
 stopwords
-sklearn
+scikit-learn
 flask_cors
