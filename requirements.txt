@@ -2,14 +2,7 @@ Flask
 Gunicorn
 joblib
 load
-re
 nltk
-nltk.corpus
 stopwords
-nltk.stem.porter
-PorterStemmer
-sklearn.feature_extraction.text
-TfidfVectorizer
+sklearn
 flask_cors
-CORS
-flask
